@@ -1,0 +1,4 @@
+(ns acme.model)
+
+(defn register!
+  [])
